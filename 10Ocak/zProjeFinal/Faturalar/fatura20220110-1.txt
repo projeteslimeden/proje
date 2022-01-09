@@ -1,0 +1,1 @@
+Depom SepetteFatura No:   20220110-1Tarih-Saat:  10-01-2022 00:10:361 ---- 51717 ---- JAVA ---- 1 Adet  B: 120,00 TL    T: 120,00 TL2 ---- 98 ---- Kitap: Hayvan Çiftliði ---- 1 Adet  B: 22,00 TL    T: 22,00 TL------------------------------------Toplam Tutar: 142.0 TL

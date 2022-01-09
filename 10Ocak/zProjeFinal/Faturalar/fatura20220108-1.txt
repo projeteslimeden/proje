@@ -1,0 +1,1 @@
+Depom SepetteFatura No:   20220108-1Tarih-Saat:  08-01-2022 19:43:541 ---- 5 ---- Eti Canga ---- 1 Adet  B: 3,50 TL    T: 3,50 TL2 ---- 5 ---- Eti Canga ---- 1 Adet  B: 3,50 TL    T: 3,50 TL3 ---- 5 ---- Eti Canga ---- 1 Adet  B: 3,50 TL    T: 3,50 TL------------------------------------Toplam Tutar: 10.5 TL
